@@ -81,7 +81,7 @@ public class Persona implements Comparable<Persona> {
     }
 
     public void provaB(){
-        
+        System.out.println("El A vol fer A");
     }
     
 }
