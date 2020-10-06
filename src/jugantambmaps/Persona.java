@@ -2,7 +2,7 @@
 package jugantambmaps;
 
 /**
- *
+ * La classe persona representa una persona.
  * @author bernat
  */
 public class Persona implements Comparable<Persona> {
@@ -80,4 +80,6 @@ public class Persona implements Comparable<Persona> {
         return "Persona{" + "id=" + id + ", nom=" + nom + '}';
     }
 
+    
+    
 }

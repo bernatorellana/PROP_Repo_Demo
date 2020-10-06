@@ -90,7 +90,7 @@ public class JugantAmbMaps {
         };
         Collections.sort(persones, comparador);
         for(Persona p: persones) {
-            System.out.println(">"+p.getId()+" "+p.getNom() );
+            System.out.println("==>"+p.getId()+" "+p.getNom() );
         }
     }
     
