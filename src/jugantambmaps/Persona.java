@@ -80,6 +80,8 @@ public class Persona implements Comparable<Persona> {
         return "Persona{" + "id=" + id + ", nom=" + nom + '}';
     }
 
-    
+    public void provaB(){
+        
+    }
     
 }
