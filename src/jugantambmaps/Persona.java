@@ -85,4 +85,7 @@ public class Persona implements Comparable<Persona> {
         System.out.println("El A vol fer A");
     }
     
+    private void novaFuncio(){
+        System.out.println("BLAH");
+    }
 }
